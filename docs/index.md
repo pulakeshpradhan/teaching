@@ -1,12 +1,169 @@
 # Role of NGOs in Disaster Management
 
+## Expected Questions
+
+### What is an NGO?
+
+### Role of NGOs in Disaster Management in different phases of disaster management cycle
+
+### Examples of NGOs working in disaster management in India
+
+### What is GO-NGO coordination? Why is Odisha's approach to GO-NGO coordination globally cited as a resilience "turnaround" case?
+
+## Model Questions for Practice
+
+### I. Multiple Choice Questions (MCQ)
+
+1. **Which Act provides the legal framework for Disaster Management in India?**
+   a) The Environment Protection Act, 1986
+   b) The Disaster Management Act, 2005
+   c) The Epidemic Diseases Act, 1897
+   d) The Civil Liability for Nuclear Damage Act, 2010
+
+2. **The Sendai Framework for Disaster Risk Reduction applies to which time period?**
+   a) 2005–2015
+   b) 2010–2020
+   c) 2015–2030
+   d) 2020–2040
+
+3. **Which cyclone is often cited as a turning point for Odisha’s disaster preparedness mechanics?**
+   a) Cyclone Amphan (2020)
+   b) Cyclone Fani (2019)
+   c) Cyclone Phailin (2013)
+   d) 1999 Super Cyclone
+
+4. **Which organization acts as the primary agency for GO–NGO coordination in Odisha?**
+   a) UNDP
+   b) OSDMA
+   c) ODMP
+   d) Indian Red Cross Society
+
+5. **"Build Back Better" is a core principle associated with which phase of the Disaster Management Cycle?**
+   a) Mitigation
+   b) Preparedness
+   c) Response
+   d) Recovery and Reconstruction
+
+### II. Fill in the Blanks
+
+1. **__________** is defined as the ability of a system, community, or society exposed to hazards to resist, absorb, accommodate, adapt to, transform, and recover from the effects of a hazard.
+2. A **__________** is a process, phenomenon, or human activity that may cause loss of life, injury, or other health impacts, property damage, social and economic disruption, or environmental degradation.
+3. **__________** aims at preventing new and reducing existing disaster risk and managing residual risk.
+4. The **__________** (Network) was established in Odisha after the 1999 Super Cyclone to coordinate NGO efforts.
+
+### III. True or False
+
+1. NGOs are government entities established by an act of Parliament. (True/False)
+2. The Disaster Management Act, 2005 defines "disaster management" as a continuous and integrated process. (True/False)
+3. Community-Based Disaster Risk Reduction (CBDRR) excludes the participation of local communities and focuses only on central planning. (True/False)
+4. OSDMA provides an official registration interface for NGOs to facilitate coordination during disasters. (True/False)
+
+### IV. Expand the Abbreviations (Full Forms)
+
+1. **CBDRR**
+2. **NDMA**
+3. **OSDMA**
+4. **ODMP**
+
+### V. Assertion and Reason
+
+*Directions: For the following questions, two statements are given-one labeled Assertion (A) and the other labeled Reason (R). Select the correct answer to these questions from the codes (a), (b), (c) and (d) as given below:*
+a) Both A and R are true and R is the correct explanation of A.
+b) Both A and R are true but R is NOT the correct explanation of A.
+c) A is true but R is false.
+d) A is false but R is true.
+
+1. **Assertion (A):** NGOs play a critical complementary role to the government in disaster management.
+    **Reason (R):** Government machinery may sometimes need specialized support, community linkages, and additional manpower which NGOs can provide effectively.
+
+2. **Assertion (A):** The Sendai Framework calls for an all-of-society engagement in disaster risk reduction.
+    **Reason (R):** Disaster risk reduction is solely the responsibility of the central government.
+
+### VI. Match the Following
+
+1. **Match the Organization/Concept with its Description:**
+
+| Column A | Column B |
+| :--- | :--- |
+| (i) UNDRR | (A) State-level authority in Odisha for disaster management |
+| (ii) NDMA | (B) Global framework for DRR (2015-2030) |
+| (iii) Sendai Framework | (C) UN office responsible for disaster risk reduction |
+| (iv) OSDMA | (D) Apex body for disaster management in India |
+
+<br>
+
+<div style="background-color: #f8f9fa; padding: 15px; border-radius: 5px; border: 1px solid #e9ecef;">
+<h3>🔐 Answer Key</h3>
+<p>Enter the secret code to view the answers. (Hint: <b>NGO2026</b>)</p>
+<input type="text" id="secret_code_input" placeholder="Enter Secret Code" style="padding: 8px; border-radius: 4px; border: 1px solid #ccc;">
+<button onclick="showAnswers()" style="padding: 8px 15px; background-color: #007bff; color: white; border: none; border-radius: 4px; cursor: pointer;">View Answers</button>
+<p id="code_error" style="color: red; display: none; margin-top: 10px;">Incorrect code!</p>
+
+<div id="hidden_answers" style="display: none; margin-top: 20px; border-top: 1px solid #ddd; padding-top: 20px;">
+
+#### I. Multiple Choice Questions
+
+1. (b) The Disaster Management Act, 2005
+2. (c) 2015–2030
+3. (d) 1999 Super Cyclone
+4. (b) OSDMA
+5. (d) Recovery and Reconstruction
+
+#### II. Fill in the Blanks
+
+6. Resilience
+2. Hazard
+3. Disaster Risk Reduction (DRR)
+4. ODMP (Odisha Development Management Programme)
+
+#### III. True or False
+
+10. False
+2. True
+3. False
+4. True
+
+#### IV. Expand the Abbreviations
+
+14. Community-Based Disaster Risk Reduction
+2. National Disaster Management Authority
+3. Odisha State Disaster Management Authority
+4. Odisha Development Management Programme (ODMP)
+
+#### V. Assertion and Reason
+
+18. (a) Both A and R are true and R is the correct explanation of A
+2. (c) A is true but R is false
+
+#### VI. Match the Following
+
+20. (i) - (C), (ii) - (D), (iii) - (B), (iv) - (A)
+
+</div>
+</div>
+
+<script>
+function showAnswers() {
+    var code = document.getElementById('secret_code_input').value;
+    if(code === 'NGO2026') {
+        document.getElementById('hidden_answers').style.display = 'block';
+        document.getElementById('code_error').style.display = 'none';
+        document.getElementById('secret_code_input').disabled = true;
+    } else {
+        document.getElementById('code_error').style.display = 'block';
+    }
+}
+</script>
+
+---
+
 ### Learning outcomes
 
 By the end of this lecture, students should be able to:
 
-- Define *NGO*, *disaster*, *disaster management*, *hazard*, *disaster risk*, *DRR*, and *resilience* using standard official sources. ([Disaster Management Act, 2005 (PDF—NDM India)](https://ndmindia.mha.gov.in/ndmi/images/The%20Disaster%20Management%20Act,%202005.pdf)) [web:74] ([UNDRR terminology—Hazard](https://www.undrr.org/terminology/hazard)) [web:86] ([UNDRR terminology—Disaster risk](https://www.undrr.org/terminology/disaster-risk)) [web:88] ([UNDRR terminology—DRR](https://www.undrr.org/terminology/disaster-risk-reduction)) [web:75] ([UNDRR terminology—Resilience](https://www.undrr.org/terminology/resilience)) [web:78]
-- Explain the roles of NGOs across the disaster management cycle using India’s national guidance and CBDRR framing. ([NDMA—Role of NGOs Guideline (PDF)](https://www.ddmakangra.org/public/ngo_corner/showimg%20(1).pdf)) [web:3] ([NDMA—CBDRR Guidelines Oct 2024 (PDF)](https://ndma.gov.in/sites/default/files/PDF/Guidelines/CBDRR_Guidelines_Oct_2024.pdf)) [web:28]
-- Describe Odisha’s institutional approach to GO–NGO coordination and why it is globally cited as a resilience “turnaround” case. ([OSDMA—GO–NGO Coordination](https://www.osdma.org/capacity-building/go-ngo-coordination/)) [web:5] ([World Bank—Odisha’s turnaround](https://www.worldbank.org/en/news/opinion/2023/11/03/odisha-s-turnaround-in-disaster-management-has-lessons-for-the-world)) [web:46]
+- Define *NGO (Non-Governmental Organization)*, *disaster*, *disaster management*, *hazard*, *disaster risk*, *DRR (Disaster Risk Reduction)*, and *resilience* using standard official sources. ([Disaster Management Act, 2005 (PDF—NDM India)](https://ndmindia.mha.gov.in/ndmi/images/The%20Disaster%20Management%20Act,%202005.pdf)) [web:74] ([UNDRR terminology—Hazard](https://www.undrr.org/terminology/hazard)) [web:86] ([UNDRR terminology—Disaster risk](https://www.undrr.org/terminology/disaster-risk)) [web:88] ([UNDRR terminology—DRR](https://www.undrr.org/terminology/disaster-risk-reduction)) [web:75] ([UNDRR terminology—Resilience](https://www.undrr.org/terminology/resilience)) [web:78]
+- Explain the roles of NGOs across the disaster management cycle using India’s national guidance and CBDRR (Community-Based Disaster Risk Reduction) framing. ([NDMA—Role of NGOs Guideline (PDF)](https://www.ddmakangra.org/public/ngo_corner/showimg%20(1).pdf)) [web:3] ([NDMA—CBDRR Guidelines Oct 2024 (PDF)](https://ndma.gov.in/sites/default/files/PDF/Guidelines/CBDRR_Guidelines_Oct_2024.pdf)) [web:28]
+- Describe Odisha’s institutional approach to GO–NGO (Government–Non-Governmental Organization) coordination and why it is globally cited as a resilience “turnaround” case. ([OSDMA—GO–NGO Coordination](https://www.osdma.org/capacity-building/go-ngo-coordination/)) [web:5] ([World Bank—Odisha’s turnaround](https://www.worldbank.org/en/news/opinion/2023/11/03/odisha-s-turnaround-in-disaster-management-has-lessons-for-the-world)) [web:46]
 
 ---
 
@@ -14,11 +171,11 @@ By the end of this lecture, students should be able to:
 
 ### 1.1 What is an NGO?
 
-In UN ECOSOC consultative arrangements, an organization “not established by a governmental entity or intergovernmental agreement” is considered a non-governmental organization for the purpose of those arrangements. ([ECOSOC Resolution 1996/31 (PDF—UN DESA)](https://social.desa.un.org/sites/default/files/inline-files/resolution-1996-31.pdf)) [web:63]  
+In UN ECOSOC(United Nations Economic and Social Council) consultative arrangements, an organization “not established by a governmental entity or intergovernmental agreement” is considered a non-governmental organization for the purpose of those arrangements. ([ECOSOC Resolution 1996/31 (PDF—UN DESA)](https://social.desa.un.org/sites/default/files/inline-files/resolution-1996-31.pdf)) [web:63]  
 
 ECOSOC also specifies governance-related expectations for NGOs seeking consultative status (e.g., representative structure and accountability mechanisms to members). ([ECOSOC Resolution 1996/31 (PDF—UN DESA)](https://social.desa.un.org/sites/default/files/inline-files/resolution-1996-31.pdf)) [web:63]  
 
-**Working definition for this lecture (synthesis):** An NGO is a non-state, non-profit (or not-for-profit) organization, institutionally independent of government creation, that undertakes social, humanitarian, development, rights, or environmental work and may engage with public systems through coordination or consultative mechanisms. ([ECOSOC Resolution 1996/31 (PDF—UN DESA)](https://social.desa.un.org/sites/default/files/inline-files/resolution-1996-31.pdf)) [web:63]  
+**Working definition:** An NGO is a non-state, non-profit (or not-for-profit) organization, institutionally independent of government creation, that undertakes social, humanitarian, development, rights, or environmental work and may engage with public systems through coordination or consultative mechanisms. ([ECOSOC Resolution 1996/31 (PDF—UN DESA)](https://social.desa.un.org/sites/default/files/inline-files/resolution-1996-31.pdf)) [web:63]  
 
 ### 1.2 What is a “disaster” (India legal definition)?
 

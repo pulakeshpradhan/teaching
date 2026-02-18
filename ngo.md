@@ -90,6 +90,71 @@ d) A is false but R is true.
 | (iii) Sendai Framework | (C) UN office responsible for disaster risk reduction |
 | (iv) OSDMA | (D) Apex body for disaster management in India |
 
+<br>
+
+<div style="background-color: #f8f9fa; padding: 15px; border-radius: 5px; border: 1px solid #e9ecef;">
+<h3>🔐 Answer Key</h3>
+<p>Enter the secret code to view the answers. (Hint: <b>NGO2026</b>)</p>
+<input type="text" id="secret_code_input" placeholder="Enter Secret Code" style="padding: 8px; border-radius: 4px; border: 1px solid #ccc;">
+<button onclick="showAnswers()" style="padding: 8px 15px; background-color: #007bff; color: white; border: none; border-radius: 4px; cursor: pointer;">View Answers</button>
+<p id="code_error" style="color: red; display: none; margin-top: 10px;">Incorrect code!</p>
+
+<div id="hidden_answers" style="display: none; margin-top: 20px; border-top: 1px solid #ddd; padding-top: 20px;">
+
+#### I. Multiple Choice Questions
+
+1. (b) The Disaster Management Act, 2005
+2. (c) 2015–2030
+3. (d) 1999 Super Cyclone
+4. (b) OSDMA
+5. (d) Recovery and Reconstruction
+
+#### II. Fill in the Blanks
+
+6. Resilience
+2. Hazard
+3. Disaster Risk Reduction (DRR)
+4. ODMP (Odisha Development Management Programme)
+
+#### III. True or False
+
+10. False
+2. True
+3. False
+4. True
+
+#### IV. Expand the Abbreviations
+
+14. Community-Based Disaster Risk Reduction
+2. National Disaster Management Authority
+3. Odisha State Disaster Management Authority
+4. Odisha Development Management Programme (ODMP)
+
+#### V. Assertion and Reason
+
+18. (a) Both A and R are true and R is the correct explanation of A
+2. (c) A is true but R is false
+
+#### VI. Match the Following
+
+20. (i) - (C), (ii) - (D), (iii) - (B), (iv) - (A)
+
+</div>
+</div>
+
+<script>
+function showAnswers() {
+    var code = document.getElementById('secret_code_input').value;
+    if(code === 'NGO2026') {
+        document.getElementById('hidden_answers').style.display = 'block';
+        document.getElementById('code_error').style.display = 'none';
+        document.getElementById('secret_code_input').disabled = true;
+    } else {
+        document.getElementById('code_error').style.display = 'block';
+    }
+}
+</script>
+
 ---
 
 ### Learning outcomes
