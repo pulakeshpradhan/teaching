@@ -20,50 +20,195 @@
    c) The Epidemic Diseases Act, 1897
    d) The Civil Liability for Nuclear Damage Act, 2010
 
-2. **The Sendai Framework for Disaster Risk Reduction applies to which time period?**
+<details>
+<summary>View Answer</summary>
+<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; margin-top: 5px;">
+<b>Answer:</b> (b) The Disaster Management Act, 2005<br>
+<b>Explanation:</b> The Disaster Management Act, 2005 is the primary law in India that provides the institutional and legal framework for disaster management at the national, state, and district levels.
+</div>
+</details>
+
+1. **The Sendai Framework for Disaster Risk Reduction applies to which time period?**
    a) 2005–2015
    b) 2010–2020
    c) 2015–2030
    d) 2020–2040
 
-3. **Which cyclone is often cited as a turning point for Odisha’s disaster preparedness mechanics?**
+<details>
+<summary>View Answer</summary>
+<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; margin-top: 5px;">
+<b>Answer:</b> (c) 2015–2030<br>
+<b>Explanation:</b> The Sendai Framework was adopted in 2015 and outlines the global roadmap for disaster risk reduction for the 15-year period from 2015 to 2030.
+</div>
+</details>
+
+1. **Which cyclone is often cited as a turning point for Odisha’s disaster preparedness mechanics?**
    a) Cyclone Amphan (2020)
    b) Cyclone Fani (2019)
    c) Cyclone Phailin (2013)
    d) 1999 Super Cyclone
 
-4. **Which organization acts as the primary agency for GO–NGO coordination in Odisha?**
+<details>
+<summary>View Answer</summary>
+<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; margin-top: 5px;">
+<b>Answer:</b> (d) 1999 Super Cyclone<br>
+<b>Explanation:</b> The devastation caused by the 1999 Super Cyclone led to the creation of OSDMA and a complete overhaul of Odisha's disaster management machinery, marking the turning point.
+</div>
+</details>
+
+1. **Which organization acts as the primary agency for GO–NGO coordination in Odisha?**
    a) UNDP
    b) OSDMA
    c) ODMP
    d) Indian Red Cross Society
 
-5. **"Build Back Better" is a core principle associated with which phase of the Disaster Management Cycle?**
+<details>
+<summary>View Answer</summary>
+<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; margin-top: 5px;">
+<b>Answer:</b> (b) OSDMA<br>
+<b>Explanation:</b> The Odisha State Disaster Management Authority (OSDMA) is the official state nodal agency that facilitates and oversees GO–NGO coordination during disasters.
+</div>
+</details>
+
+1. **"Build Back Better" is a core principle associated with which phase of the Disaster Management Cycle?**
    a) Mitigation
    b) Preparedness
    c) Response
    d) Recovery and Reconstruction
 
+<details>
+<summary>View Answer</summary>
+<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; margin-top: 5px;">
+<b>Answer:</b> (d) Recovery and Reconstruction<br>
+<b>Explanation:</b> "Build Back Better" is a reconstruction philosophy used in the recovery phase to ensure that new infrastructure is more resilient to future disasters than what existed before.
+</div>
+</details>
+
 ### II. Fill in the Blanks
 
 1. **__________** is defined as the ability of a system, community, or society exposed to hazards to resist, absorb, accommodate, adapt to, transform, and recover from the effects of a hazard.
-2. A **__________** is a process, phenomenon, or human activity that may cause loss of life, injury, or other health impacts, property damage, social and economic disruption, or environmental degradation.
-3. **__________** aims at preventing new and reducing existing disaster risk and managing residual risk.
-4. The **__________** (Network) was established in Odisha after the 1999 Super Cyclone to coordinate NGO efforts.
+
+<details>
+<summary>View Answer</summary>
+<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; margin-top: 5px;">
+<b>Answer:</b> Resilience<br>
+<b>Explanation:</b> This is the standard UNDRR definition of resilience, emphasizing the capacity to bounce back and maintain essential functions.
+</div>
+</details>
+
+1. A **__________** is a process, phenomenon, or human activity that may cause loss of life, injury, or other health impacts, property damage, social and economic disruption, or environmental degradation.
+
+<details>
+<summary>View Answer</summary>
+<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; margin-top: 5px;">
+<b>Answer:</b> Hazard<br>
+<b>Explanation:</b> A hazard is the potentially damaging event or phenomenon itself (like a cyclone or earthquake), distinct from the risk or disaster it may cause.
+</div>
+</details>
+
+1. **__________** aims at preventing new and reducing existing disaster risk and managing residual risk.
+
+<details>
+<summary>View Answer</summary>
+<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; margin-top: 5px;">
+<b>Answer:</b> Disaster Risk Reduction (DRR)<br>
+<b>Explanation:</b> DRR is the systematic approach to identifying, assessing, and reducing the risks of disaster, rather than just managing the event after it happens.
+</div>
+</details>
+
+1. The **__________** (Network) was established in Odisha after the 1999 Super Cyclone to coordinate NGO efforts.
+
+<details>
+<summary>View Answer</summary>
+<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; margin-top: 5px;">
+<b>Answer:</b> ODMP (Odisha Development Management Programme)<br>
+<b>Explanation:</b> ODMP was formed by NGOs in the aftermath of the 1999 cyclone to ensure better coordination and collective action among civil society organizations.
+</div>
+</details>
 
 ### III. True or False
 
 1. NGOs are government entities established by an act of Parliament. (True/False)
-2. The Disaster Management Act, 2005 defines "disaster management" as a continuous and integrated process. (True/False)
-3. Community-Based Disaster Risk Reduction (CBDRR) excludes the participation of local communities and focuses only on central planning. (True/False)
-4. OSDMA provides an official registration interface for NGOs to facilitate coordination during disasters. (True/False)
+
+<details>
+<summary>View Answer</summary>
+<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; margin-top: 5px;">
+<b>Answer:</b> False<br>
+<b>Explanation:</b> By definition, Non-Governmental Organizations (NGOs) are independent of government control and are not created by the government, though they may partner with it.
+</div>
+</details>
+
+1. The Disaster Management Act, 2005 defines "disaster management" as a continuous and integrated process. (True/False)
+
+<details>
+<summary>View Answer</summary>
+<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; margin-top: 5px;">
+<b>Answer:</b> True<br>
+<b>Explanation:</b> The Act specifically defines disaster management not as a one-time event response, but as a continuous cycle including planning, organizing, and implementing measures.
+</div>
+</details>
+
+1. Community-Based Disaster Risk Reduction (CBDRR) excludes the participation of local communities and focuses only on central planning. (True/False)
+
+<details>
+<summary>View Answer</summary>
+<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; margin-top: 5px;">
+<b>Answer:</b> False<br>
+<b>Explanation:</b> CBDRR is fundamentally about *including* local communities in the planning and decision-making process to make them self-reliant.
+</div>
+</details>
+
+1. OSDMA provides an official registration interface for NGOs to facilitate coordination during disasters. (True/False)
+
+<details>
+<summary>View Answer</summary>
+<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; margin-top: 5px;">
+<b>Answer:</b> True<br>
+<b>Explanation:</b> OSDMA's website maintains a registration portal specifically to map NGO capabilities and contact details for effective coordination during emergencies.
+</div>
+</details>
 
 ### IV. Expand the Abbreviations (Full Forms)
 
 1. **CBDRR**
-2. **NDMA**
-3. **OSDMA**
-4. **ODMP**
+
+<details>
+<summary>View Answer</summary>
+<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; margin-top: 5px;">
+<b>Answer:</b> Community-Based Disaster Risk Reduction<br>
+<b>Explanation:</b> A process of disaster risk management in which at-risk communities are actively engaged in the identification, analysis, treatment, monitoring and evaluation of disaster risks.
+</div>
+</details>
+
+1. **NDMA**
+
+<details>
+<summary>View Answer</summary>
+<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; margin-top: 5px;">
+<b>Answer:</b> National Disaster Management Authority<br>
+<b>Explanation:</b> The apex body for disaster management in India, headed by the Prime Minister.
+</div>
+</details>
+
+1. **OSDMA**
+
+<details>
+<summary>View Answer</summary>
+<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; margin-top: 5px;">
+<b>Answer:</b> Odisha State Disaster Management Authority<br>
+<b>Explanation:</b> The state-level agency in Odisha responsible for disaster management, established shortly after the 1999 Super Cyclone.
+</div>
+</details>
+
+1. **ODMP**
+
+<details>
+<summary>View Answer</summary>
+<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; margin-top: 5px;">
+<b>Answer:</b> Odisha Development Management Programme<br>
+<b>Explanation:</b> A network of NGOs in Odisha focusing on development and disaster management coordination.
+</div>
+</details>
 
 ### V. Assertion and Reason
 
@@ -76,8 +221,24 @@ d) A is false but R is true.
 1. **Assertion (A):** NGOs play a critical complementary role to the government in disaster management.
     **Reason (R):** Government machinery may sometimes need specialized support, community linkages, and additional manpower which NGOs can provide effectively.
 
-2. **Assertion (A):** The Sendai Framework calls for an all-of-society engagement in disaster risk reduction.
+<details>
+<summary>View Answer</summary>
+<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; margin-top: 5px;">
+<b>Answer:</b> (a) Both A and R are true and R is the correct explanation of A.<br>
+<b>Explanation:</b> The assertion is true because governments cannot do everything alone. The reason correctly explains *why* NGOs are complementary: they fill specific gaps like grassroots reach and specialized skills that the government might lack in a crisis.
+</div>
+</details>
+
+1. **Assertion (A):** The Sendai Framework calls for an all-of-society engagement in disaster risk reduction.
     **Reason (R):** Disaster risk reduction is solely the responsibility of the central government.
+
+<details>
+<summary>View Answer</summary>
+<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; margin-top: 5px;">
+<b>Answer:</b> (c) A is true but R is false.<br>
+<b>Explanation:</b> The assertion is true as Sendai emphasizes shared responsibility. The reason is false because DRR is a shared responsibility involving states, local bodies, private sector, NGOs, and communities, not just the central government.
+</div>
+</details>
 
 ### VI. Match the Following
 
@@ -90,66 +251,17 @@ d) A is false but R is true.
 | (iii) Sendai Framework | (C) UN office responsible for disaster risk reduction |
 | (iv) OSDMA | (D) Apex body for disaster management in India |
 
-<br>
-
-<div style="background-color: #f8f9fa; padding: 15px; border-radius: 5px; border: 1px solid #e9ecef;">
-<h3>� Answer Key</h3>
-<p>Click the button below to view the answers.</p>
-<button onclick="toggleAnswers()" style="padding: 8px 15px; background-color: #007bff; color: white; border: none; border-radius: 4px; cursor: pointer;">View Answers</button>
-
-<div id="hidden_answers" style="display: none; margin-top: 20px; border-top: 1px solid #ddd; padding-top: 20px;">
-
-#### I. Multiple Choice Questions
-
-1. (b) The Disaster Management Act, 2005
-2. (c) 2015–2030
-3. (d) 1999 Super Cyclone
-4. (b) OSDMA
-5. (d) Recovery and Reconstruction
-
-#### II. Fill in the Blanks
-
-6. Resilience
-2. Hazard
-3. Disaster Risk Reduction (DRR)
-4. ODMP (Odisha Development Management Programme)
-
-#### III. True or False
-
-10. False
-2. True
-3. False
-4. True
-
-#### IV. Expand the Abbreviations
-
-14. Community-Based Disaster Risk Reduction
-2. National Disaster Management Authority
-3. Odisha State Disaster Management Authority
-4. Odisha Development Management Programme (ODMP)
-
-#### V. Assertion and Reason
-
-18. (a) Both A and R are true and R is the correct explanation of A
-2. (c) A is true but R is false
-
-#### VI. Match the Following
-
-20. (i) - (C), (ii) - (D), (iii) - (B), (iv) - (A)
-
+<details>
+<summary>View Answer</summary>
+<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; margin-top: 5px;">
+<b>Answer:</b> (i)-(C), (ii)-(D), (iii)-(B), (iv)-(A)<br>
+<b>Explanation:</b><br>
+(i) UNDRR -> UN office for DRR<br>
+(ii) NDMA -> Apex body in India<br>
+(iii) Sendai Framework -> Global DRR framework<br>
+(iv) OSDMA -> State authority in Odisha
 </div>
-</div>
-
-<script>
-function toggleAnswers() {
-    var x = document.getElementById("hidden_answers");
-    if (x.style.display === "none") {
-        x.style.display = "block";
-    } else {
-        x.style.display = "none";
-    }
-}
-</script>
+</details>
 
 ---
 
