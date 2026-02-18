@@ -8,17 +8,19 @@
 
 3. Examples of NGOs working in disaster management in India
 
-### What is GO-NGO coordination? Why is Odisha's approach to GO-NGO coordination globally cited as a resilience "turnaround" case?
+4. What is GO-NGO coordination? Why is Odisha's approach to GO-NGO coordination globally cited as a resilience "turnaround" case?
+
+5. What is Community Based Disaster Risk Reduction (CBDRR)?
 
 ## Model Questions for Practice
 
 ### I. Multiple Choice Questions (MCQ)
 
 1. **Which Act provides the legal framework for Disaster Management in India?**
-   a) The Environment Protection Act, 1986
-   b) The Disaster Management Act, 2005
-   c) The Epidemic Diseases Act, 1897
-   d) The Civil Liability for Nuclear Damage Act, 2010
+   - a) The Environment Protection Act, 1986
+   - b) The Disaster Management Act, 2005
+   - c) The Epidemic Diseases Act, 1897
+   - d) The Civil Liability for Nuclear Damage Act, 2010
 
 <details>
 <summary>View Answer</summary>
@@ -29,10 +31,10 @@
 </details>
 
 1. **The Sendai Framework for Disaster Risk Reduction applies to which time period?**
-   a) 2005–2015
-   b) 2010–2020
-   c) 2015–2030
-   d) 2020–2040
+   - a) 2005–2015
+   - b) 2010–2020
+   - c) 2015–2030
+   - d) 2020–2040
 
 <details>
 <summary>View Answer</summary>
@@ -43,10 +45,10 @@
 </details>
 
 1. **Which cyclone is often cited as a turning point for Odisha’s disaster preparedness mechanics?**
-   a) Cyclone Amphan (2020)
-   b) Cyclone Fani (2019)
-   c) Cyclone Phailin (2013)
-   d) 1999 Super Cyclone
+   - a) Cyclone Amphan (2020)
+   - b) Cyclone Fani (2019)
+   - c) Cyclone Phailin (2013)
+   - d) 1999 Super Cyclone
 
 <details>
 <summary>View Answer</summary>
@@ -57,10 +59,10 @@
 </details>
 
 1. **Which organization acts as the primary agency for GO–NGO coordination in Odisha?**
-   a) UNDP
-   b) OSDMA
-   c) ODMP
-   d) Indian Red Cross Society
+   - a) UNDP
+   - b) OSDMA
+   - c) ODMP
+   - d) Indian Red Cross Society
 
 <details>
 <summary>View Answer</summary>
@@ -71,10 +73,10 @@
 </details>
 
 1. **"Build Back Better" is a core principle associated with which phase of the Disaster Management Cycle?**
-   a) Mitigation
-   b) Preparedness
-   c) Response
-   d) Recovery and Reconstruction
+   - a) Mitigation
+   - b) Preparedness
+   - c) Response
+   - d) Recovery and Reconstruction
 
 <details>
 <summary>View Answer</summary>
@@ -213,10 +215,11 @@
 ### V. Assertion and Reason
 
 *Directions: For the following questions, two statements are given-one labeled Assertion (A) and the other labeled Reason (R). Select the correct answer to these questions from the codes (a), (b), (c) and (d) as given below:*
-a) Both A and R are true and R is the correct explanation of A.
-b) Both A and R are true but R is NOT the correct explanation of A.
-c) A is true but R is false.
-d) A is false but R is true.
+
+- a) Both A and R are true and R is the correct explanation of A.
+- b) Both A and R are true but R is NOT the correct explanation of A.
+- c) A is true but R is false.
+- d) A is false but R is true.
 
 1. **Assertion (A):** NGOs play a critical complementary role to the government in disaster management.
     **Reason (R):** Government machinery may sometimes need specialized support, community linkages, and additional manpower which NGOs can provide effectively.
