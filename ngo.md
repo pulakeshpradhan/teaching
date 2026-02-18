@@ -93,11 +93,9 @@ d) A is false but R is true.
 <br>
 
 <div style="background-color: #f8f9fa; padding: 15px; border-radius: 5px; border: 1px solid #e9ecef;">
-<h3>🔐 Answer Key</h3>
-<p>Enter the secret code to view the answers. (Hint: <b>NGO2026</b>)</p>
-<input type="text" id="secret_code_input" placeholder="Enter Secret Code" style="padding: 8px; border-radius: 4px; border: 1px solid #ccc;">
-<button onclick="showAnswers()" style="padding: 8px 15px; background-color: #007bff; color: white; border: none; border-radius: 4px; cursor: pointer;">View Answers</button>
-<p id="code_error" style="color: red; display: none; margin-top: 10px;">Incorrect code!</p>
+<h3>� Answer Key</h3>
+<p>Click the button below to view the answers.</p>
+<button onclick="toggleAnswers()" style="padding: 8px 15px; background-color: #007bff; color: white; border: none; border-radius: 4px; cursor: pointer;">View Answers</button>
 
 <div id="hidden_answers" style="display: none; margin-top: 20px; border-top: 1px solid #ddd; padding-top: 20px;">
 
@@ -143,14 +141,12 @@ d) A is false but R is true.
 </div>
 
 <script>
-function showAnswers() {
-    var code = document.getElementById('secret_code_input').value;
-    if(code === 'NGO2026') {
-        document.getElementById('hidden_answers').style.display = 'block';
-        document.getElementById('code_error').style.display = 'none';
-        document.getElementById('secret_code_input').disabled = true;
+function toggleAnswers() {
+    var x = document.getElementById("hidden_answers");
+    if (x.style.display === "none") {
+        x.style.display = "block";
     } else {
-        document.getElementById('code_error').style.display = 'block';
+        x.style.display = "none";
     }
 }
 </script>
