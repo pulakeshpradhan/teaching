@@ -1,12 +1,12 @@
 # Role of NGOs in Disaster Management
 
-## Expected Questions
+## Model Questions for Practice
 
-### What is an NGO?
+1. What is an NGO?
 
-### Role of NGOs in Disaster Management in different phases of disaster management cycle
+2. Role of NGOs in Disaster Management in different phases of disaster management cycle
 
-### Examples of NGOs working in disaster management in India
+3. Examples of NGOs working in disaster management in India
 
 ### What is GO-NGO coordination? Why is Odisha's approach to GO-NGO coordination globally cited as a resilience "turnaround" case?
 
@@ -269,30 +269,35 @@ d) A is false but R is true.
 
     By the end of this lecture, students should be able to:
 
-    - **Define** *NGO*, *disaster*, *disaster management*, *hazard*, *disaster risk*, *DRR*, and *resilience* using standard official sources.
-    - **Explain** the roles of NGOs across the disaster management cycle using India’s national guidance and CBDRR framing.
-    - **Describe** Odisha’s institutional approach to GO–NGO coordination and why it is globally cited as a resilience “turnaround” case.
+    - Define *NGO (Non-Governmental Organization)*, *disaster*, *disaster management*, *hazard*, *disaster risk*, *DRR (Disaster Risk Reduction)*, and *resilience* using standard official sources. ([Disaster Management Act, 2005 (PDF—NDM India)](https://ndmindia.mha.gov.in/ndmi/images/The%20Disaster%20Management%20Act,%202005.pdf)) [web:74] ([UNDRR terminology—Hazard](https://www.undrr.org/terminology/hazard)) [web:86] ([UNDRR terminology—Disaster risk](https://www.undrr.org/terminology/disaster-risk)) [web:88] ([UNDRR terminology—DRR](https://www.undrr.org/terminology/disaster-risk-reduction)) [web:75] ([UNDRR terminology—Resilience](https://www.undrr.org/terminology/resilience)) [web:78]
+    - Explain the roles of NGOs across the disaster management cycle using India’s national guidance and CBDRR (Community-Based Disaster Risk Reduction) framing. ([NDMA—Role of NGOs Guideline (PDF)](https://www.ddmakangra.org/public/ngo_corner/showimg%20(1).pdf)) [web:3] ([NDMA—CBDRR Guidelines Oct 2024 (PDF)](https://ndma.gov.in/sites/default/files/PDF/Guidelines/CBDRR_Guidelines_Oct_2024.pdf)) [web:28]
+    - Describe Odisha’s institutional approach to GO–NGO (Government–Non-Governmental Organization) coordination and why it is globally cited as a resilience “turnaround” case. ([OSDMA—GO–NGO Coordination](https://www.osdma.org/capacity-building/go-ngo-coordination/)) [web:5] ([World Bank—Odisha’s turnaround](https://www.worldbank.org/en/news/opinion/2023/11/03/odisha-s-turnaround-in-disaster-management-has-lessons-for-the-world)) [web:46]
 
 ---
 
 ## 1) Definitions
 
 !!! info "1.1 What is an NGO?"
-    In UN ECOSOC consultative arrangements, an organization “not established by a governmental entity or intergovernmental agreement” is considered a non-governmental organization.
+    In UN ECOSOC(United Nations Economic and Social Council) consultative arrangements, an organization “not established by a governmental entity or intergovernmental agreement” is considered a non-governmental organization for the purpose of those arrangements. ([ECOSOC Resolution 1996/31 (PDF—UN DESA)](https://social.desa.un.org/sites/default/files/inline-files/resolution-1996-31.pdf)) [web:63]  
 
-    **Working definition:** An NGO is a non-state, non-profit organization, institutionally independent of government creation, that undertakes social, humanitarian, development, rights, or environmental work.
+    ECOSOC also specifies governance-related expectations for NGOs seeking consultative status (e.g., representative structure and accountability mechanisms to members). ([ECOSOC Resolution 1996/31 (PDF—UN DESA)](https://social.desa.un.org/sites/default/files/inline-files/resolution-1996-31.pdf)) [web:63]  
 
-!!! info "1.2 What is a “disaster”?"
-    Under India’s **Disaster Management Act, 2005**, “disaster” means a catastrophe, mishap, calamity, or grave occurrence arising from natural or man-made causes that results in substantial loss of life or property and is **beyond the coping capacity of the affected community**.
+    **Working definition:** An NGO is a non-state, non-profit (or not-for-profit) organization, institutionally independent of government creation, that undertakes social, humanitarian, development, rights, or environmental work and may engage with public systems through coordination or consultative mechanisms. ([ECOSOC Resolution 1996/31 (PDF—UN DESA)](https://social.desa.un.org/sites/default/files/inline-files/resolution-1996-31.pdf)) [web:63]  
 
-!!! info "1.3 What is “disaster management”?"
-    The DM Act defines it as a **continuous and integrated process** of planning, organizing, coordinating, and implementing measures for prevention, mitigation, capacity-building, preparedness, prompt response, assessment, evacuation, rescue, relief, rehabilitation, and reconstruction.
+!!! info "1.2 What is a “disaster” (India legal definition)?"
+    Under India’s Disaster Management Act, 2005, “disaster” means a catastrophe/mishap/calamity/grave occurrence arising from natural or man-made causes (or accident/negligence) that results in substantial loss of life/suffering/property damage/environmental degradation and is beyond the coping capacity of the affected community. ([Disaster Management Act, 2005 (PDF—NDM India)](https://ndmindia.mha.gov.in/ndmi/images/The%20Disaster%20Management%20Act,%202005.pdf)) [web:74]  
 
-!!! info "1.4 Core DRR Terminology (UNDRR)"
-    - **Hazard:** A process, phenomenon, or human activity that may cause loss of life, injury, or other health impacts.
-    - **Disaster Risk:** Potential loss of life, injury, or destroyed assets (function of hazard, exposure, vulnerability, and capacity).
-    - **Disaster Risk Reduction (DRR):** Aimed at preventing new and reducing existing disaster risk.
-    - **Resilience:** The ability of a system/community exposed to hazards to resist, absorb, accommodate, adapt to, transform, and recover.  
+!!! info "1.3 What is “disaster management” (India legal definition)?"
+    The DM Act defines “disaster management” as a continuous and integrated process of planning, organizing, coordinating, and implementing measures for prevention, mitigation, capacity-building, preparedness, prompt response, assessment, evacuation/rescue/relief, rehabilitation, and reconstruction. ([Disaster Management Act, 2005 (PDF—NDM India)](https://ndmindia.mha.gov.in/ndmi/images/The%20Disaster%20Management%20Act,%202005.pdf)) [web:74]  
+
+!!! info "1.4 Core DRR terminology (international standard)"
+    **Hazard:** A process, phenomenon, or human activity that may cause loss of life/injury/health impacts, property damage, social/economic disruption, or environmental degradation. ([UNDRR terminology—Hazard](https://www.undrr.org/terminology/hazard)) [web:86]  
+
+    **Disaster risk:** The potential loss of life, injury, or destroyed/damaged assets that could occur in a period of time, probabilistically as a function of hazard, exposure, vulnerability, and capacity. ([UNDRR terminology—Disaster risk](https://www.undrr.org/terminology/disaster-risk)) [web:88]  
+
+    **Disaster risk reduction (DRR):** Aimed at preventing new and reducing existing disaster risk and managing residual risk, strengthening resilience and supporting sustainable development. ([UNDRR terminology—DRR](https://www.undrr.org/terminology/disaster-risk-reduction)) [web:75]  
+
+    **Resilience:** The ability of a system/community/society exposed to hazards to resist, absorb, accommodate, adapt to, transform, and recover from hazard effects in a timely and efficient manner, including preserving/restoring essential structures/functions through risk management. ([UNDRR terminology—Resilience](https://www.undrr.org/terminology/resilience)) [web:78]  
 
 ### 1.5 International policy frame: Sendai
 
@@ -302,17 +307,18 @@ A UNDRR explainer page can be cited in short lecture notes and policy introducti
 
 ---
 
-## 2) Why NGOs are Central in Disaster Management
+## 2) Why NGOs are central in disaster management
 
-!!! success "2.1 Complementarity with the State"
-    - **Integrated Process:** The law frames disaster management as continuous (prevention-to-reconstruction), creating space for specialized actors.
-    - **Structured Partners:** NDMA guidelines treat NGOs as structured partners in preparedness, response, and recovery, not just ad-hoc helpers.
+!!! success "2.1 Complementarity with the state"
+    India’s legal framing makes disaster management an integrated, continuous process requiring planning, coordination, and implementation across prevention-to-reconstruction, which creates a space for specialized and community-linked actors to supplement government capacity. ([Disaster Management Act, 2005 (PDF—NDM India)](https://ndmindia.mha.gov.in/ndmi/images/The%20Disaster%20Management%20Act,%202005.pdf)) [web:74]  
 
-!!! success "2.2 CBDRR Lens (Community-First)"
-    - **Local Transformation:** Guidelines explicitly frame NGOs and CSOs as key to transforming communities toward self-reliance.
+    NDMA’s dedicated guideline on the “Role of NGOs” provides an official basis to treat NGOs as structured partners (not ad-hoc actors) across preparedness, response, and recovery, including coordination expectations. ([NDMA—Role of NGOs Guideline (PDF)](https://www.ddmakangra.org/public/ngo_corner/showimg%20(1).pdf)) [web:3]  
 
-!!! success "2.3 Governance and Legitimacy"
-    - **Accountability:** NGOs are expected to have representative structures and accountability, crucial for legitimacy in governance.  
+!!! success "2.2 CBDRR lens (community-first)"
+    NDMA’s CBDRR Guidelines explicitly frame CSOs/NGOs and CBOs, alongside PRIs, as key actors in transforming communities toward self-reliance in dealing with disasters. ([NDMA—CBDRR Guidelines Oct 2024 (PDF)](https://ndma.gov.in/sites/default/files/PDF/Guidelines/CBDRR_Guidelines_Oct_2024.pdf)) [web:28]  
+
+!!! success "2.3 Governance and legitimacy (UN perspective)"
+    ECOSOC consultative arrangements emphasize that NGOs should have representative structures and accountability mechanisms, which is relevant when discussing NGO legitimacy in disaster governance. ([ECOSOC Resolution 1996/31 (PDF—UN DESA)](https://social.desa.un.org/sites/default/files/inline-files/resolution-1996-31.pdf)) [web:63]  
 
 ---
 
@@ -382,27 +388,29 @@ The CBDRR Guidelines emphasize community-centered methods where NGOs/CSOs help e
 
 ---
 
-## 6) Odisha Focus
+## 6) Odisha focus
 
-### 6.1 GO–NGO Coordination (Official Mechanisms)
+### 6.1 GO–NGO coordination (official mechanisms)
 
-OSDMA maintains GO–NGO coordination information, including an official registration interface to help coordinate disaster-related NGO activities.
+OSDMA maintains GO–NGO coordination information, including an official registration interface to help coordinate disaster-related NGO activities. ([OSDMA—GO–NGO Coordination](https://www.osdma.org/capacity-building/go-ngo-coordination/)) [web:5] ([OSDMA—NGO Registration](https://www.osdma.org/ngo-registration/)) [web:32]  
 
 !!! tip "Teaching Point"
-    In academic writing, treat **OSDMA** as the *official coordination gateway* for Odisha. Document individual NGOs using their official portfolios and credible evaluations.
+    In academic writing, treat this as the *official coordination gateway* for Odisha, and then document individual NGOs using their official portfolios and credible evaluations. ([OSDMA—NGO Registration](https://www.osdma.org/ngo-registration/)) [web:32]  
 
-### 6.2 Odisha Networks / Examples
+### 6.2 Odisha networks / examples
 
-- **ODMP (Odisha Development Management Programme):** A state-level NGO network established after the 1999 cyclone.
-- **Odisha Red Cross:** The official state-level interface to the Indian Red Cross Society.
+- **ODMP (Odisha Development Management Programme)** is a state-level NGO network established after the 1999 cyclone (official site). ([ODMP—Official website](https://odmp.in)) [web:33]  
+- **Odisha Red Cross** provides official state-level interface to the Indian Red Cross Society’s work. ([Odisha Red Cross](https://odisharedcross.org)) [web:42]  
 
-### 6.3 Case-Based Teaching: Cyclone Phailin (2013)
+### 6.3 Case-based teaching: Cyclone Phailin (2013)
 
-UNDP’s assessment provides an official evaluation-style document you can cite for **community mobilization** and **volunteer contributions**.
+UNDP’s assessment provides an official evaluation-style document you can cite for community mobilization/volunteer contributions during Phailin response. ([UNDP—Phailin assessment (PDF)](https://ndmindia.mha.gov.in/ndmi/images/pdf/PhailinReport-UNDP-Odisha.pdf)) [web:20]  
 
-### 6.4 Case-Based Teaching: Cyclone Fani (2019)
+A journal-style case study paper can be used to illustrate preparedness measures and institutional learning in Odisha. ([UKSCIP paper—Phailin cyclone case study (PDF)](https://ojs.ukscip.com/index.php/ptnd/article/download/1133/970/7953)) [web:16]  
 
-ActionAid’s official response reporting can be used as a primary source for describing NGO relief actions.  
+### 6.4 Case-based teaching: Cyclone Fani (2019) and NGO response reporting
+
+ActionAid’s official response reporting can be used as a primary source for describing NGO relief actions and targeted support components. ([ActionAid—Disaster responses across India (incl. 2019)](https://www.actionaidindia.org/emergency/response-to-disasters-across-india-2019/)) [web:21]  
 
 ---
 
