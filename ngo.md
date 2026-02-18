@@ -10,7 +10,7 @@ By the end of this lecture, students should be able to:
 
 ---
 
-## 1) Definitions (use these in academic writing)
+## 1) Definitions
 
 ### 1.1 What is an NGO?
 
@@ -85,7 +85,7 @@ A concise UNDRR explainer is also available for policy framing in academic writi
 
 ---
 
-## 4) Statistics you can cite (India + Odisha)
+## 4) Statistics (India + Odisha)
 
 ### India: hazard exposure (official synthesis)
 
@@ -93,7 +93,7 @@ India’s national Sendai Midterm Review report compiles headline exposure indic
 
 Use the NDMA VNR as your “official umbrella source” for nationally reported vulnerability statistics in academic writing, and cite the relevant page/section after you verify the exact line you are quoting. ([NDMA—India Sendai Framework Midterm Review (VNR) (PDF)](https://ndma.gov.in/sites/default/files/PDF/India-SFDRR-Midterm-Review-Report.pdf)) [web:51]  
 
-### Odisha: evidence of risk-reduction outcomes (official + academic)
+### Odisha: evidence of risk-reduction outcomes
 
 Odisha’s preparedness improvements (institutional strengthening and evacuation/shelter systems) are highlighted by the World Bank as globally instructive. ([World Bank—Odisha’s turnaround](https://www.worldbank.org/en/news/opinion/2023/11/03/odisha-s-turnaround-in-disaster-management-has-lessons-for-the-world)) [web:46]  
 
@@ -103,7 +103,7 @@ For an academic narrative on Phailin and Odisha preparedness, see the dedicated 
 
 ---
 
-## 5) NGO roles across the Disaster Management Cycle (what to teach + how to write it)
+## 5) NGO roles across the Disaster Management Cycle
 
 NDMA’s NGO guideline frames NGO contributions across **preparedness, mitigation, response, and recovery**, including community awareness, training, relief logistics, and longer-term rehabilitation. ([NDMA Guideline—Role of NGOs (PDF)](https://www.ddmakangra.org/public/ngo_corner/showimg%20(1).pdf)) [web:3]  
 
@@ -130,7 +130,7 @@ The CBDRR Guidelines emphasize community-centered methods where NGOs/CSOs help e
 
 ---
 
-## 6) Odisha focus: coordination mechanisms + selected NGOs/actors (official entry points + primary sources)
+## 6) Odisha focus
 
 ### 6.1 GO–NGO coordination (official mechanisms)
 
@@ -197,7 +197,7 @@ Use these as “figures” by linking to the official page/PDF (and extracting t
 
 ---
 
-## 9) Ready-to-paste academic paragraph (example)
+## 9) Example
 
 NGOs are formally recognized in India’s disaster governance as agencies that supplement government capacity across preparedness, response, and recovery, and NDMA provides detailed guidance on operational roles and coordination expectations. ([NDMA Guideline—Role of NGOs (PDF)](https://www.ddmakangra.org/public/ngo_corner/showimg%20(1).pdf)) [web:3]  
 In Odisha, institutional investments and structured coordination are widely cited as central to the state’s improved cyclone outcomes, with external assessments framing Odisha’s approach as globally instructive for disaster resilience-building. ([World Bank—Odisha turnaround](https://www.worldbank.org/en/news/opinion/2023/11/03/odisha-s-turnaround-in-disaster-management-has-lessons-for-the-world)) [web:46]  
@@ -205,7 +205,7 @@ Community-centered DRR approaches further position NGOs/CSOs and CBOs as core ac
 
 ---
 
-## 10) Glossary (quick revision box)
+## 10) Quick revision
 
 - **NGO (UN consultative framing):** Not established by a governmental entity or intergovernmental agreement (for consultative arrangements), with governance/accountability expectations. ([ECOSOC Resolution 1996/31 (PDF)](https://social.desa.un.org/sites/default/files/inline-files/resolution-1996-31.pdf)) [web:63]  
 - **Disaster (India):** A grave occurrence causing substantial losses and beyond community coping capacity. ([Disaster Management Act, 2005 (PDF)](https://ndmindia.mha.gov.in/ndmi/images/The%20Disaster%20Management%20Act,%202005.pdf)) [web:74]  
@@ -217,7 +217,7 @@ Community-centered DRR approaches further position NGOs/CSOs and CBOs as core ac
 
 ---
 
-## References (official + academic; all clickable)
+## References
 
 ### Laws / official policy
 
