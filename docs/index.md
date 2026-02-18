@@ -397,8 +397,8 @@ The CBDRR Guidelines emphasize community-centered methods where NGOs/CSOs help e
 
 OSDMA maintains GO–NGO coordination information, including an official registration interface to help coordinate disaster-related NGO activities. ([OSDMA—GO–NGO Coordination](https://www.osdma.org/capacity-building/go-ngo-coordination/)) ([OSDMA—NGO Registration](https://www.osdma.org/ngo-registration/))
 
-!!! tip "Teaching Point"
-    In academic writing, treat this as the *official coordination gateway* for Odisha, and then document individual NGOs using their official portfolios and credible evaluations. ([OSDMA—NGO Registration](https://www.osdma.org/ngo-registration/))
+!!! tip "Important Note"
+    This platform functions as the *official coordination gateway* for Odisha. Individual NGOs should be documented using their official portfolios and credible evaluations. ([OSDMA—NGO Registration](https://www.osdma.org/ngo-registration/))
 
 ### 6.2 Odisha networks / examples
 
@@ -419,7 +419,7 @@ ActionAid’s official response reporting can be used as a primary source for de
 
 ## 7) NGO landscape lists (Odisha, India, international)
 
-**Note:** Official sources do not always publish a single “complete roster” of all NGOs working on disasters; the most defensible academic approach is (a) cite official coordination/registration mechanisms, and (b) list NGOs with their official websites and documented disaster portfolios (non-exhaustive). ([OSDMA—NGO Registration](https://www.osdma.org/ngo-registration/))
+**Note:** Official sources do not always publish a single “complete roster” of all NGOs working on disasters. The standard academic approach is to: (a) cite official coordination/registration mechanisms, and (b) list NGOs with their official websites and documented disaster portfolios. ([OSDMA—NGO Registration](https://www.osdma.org/ngo-registration/))
 
 ### 7.1 Odisha-focused (networks + institutional channels)
 
@@ -447,19 +447,19 @@ ActionAid’s official response reporting can be used as a primary source for de
 
 ---
 
-## 8) Figures (linked images/graphics you can cite)
+## 8) Key Visual Resources
 
-Use these as “figures” by linking to the official page/PDF (and extracting the specific image/graphic if allowed), then cite the source in your caption.
+The following official documents contain essential diagrams, statistics, and maps that illustrate key concepts:
 
-- **Figure idea: Sendai Framework official diagram/text excerpts** — use from the Sendai PDF. ([Sendai Framework (PDF)](https://www.preventionweb.net/files/43291_sendaiframeworkfordrren.pdf))
-- **Figure idea: National DRR framing and statistics tables** — use from NDMA’s VNR PDF sections/tables. ([NDMA—India Sendai Midterm Review (VNR) (PDF)](https://ndma.gov.in/sites/default/files/PDF/India-SFDRR-Midterm-Review-Report.pdf))
-- **Figure idea: CBDRR process/roles** — use from CBDRR Guidelines PDF. ([NDMA—CBDRR Guidelines Oct 2024 (PDF)](https://ndma.gov.in/sites/default/files/PDF/Guidelines/CBDRR_Guidelines_Oct_2024.pdf))
-- **Figure idea: Phailin response assessment visuals/tables** — use from UNDP’s assessment PDF. ([UNDP—Phailin assessment (PDF)](https://ndmindia.mha.gov.in/ndmi/images/pdf/PhailinReport-UNDP-Odisha.pdf))
-- **Figure idea: Odisha’s resilience narrative (institutional + infrastructure)** — World Bank page includes visual/illustrative content. ([World Bank—Odisha turnaround](https://www.worldbank.org/en/news/opinion/2023/11/03/odisha-s-turnaround-in-disaster-management-has-lessons-for-the-world))
+- **Sendai Framework official diagram/text excerpts** — from the Sendai PDF. ([Sendai Framework (PDF)](https://www.preventionweb.net/files/43291_sendaiframeworkfordrren.pdf))
+- **National DRR framing and statistics tables** — from NDMA’s VNR PDF sections/tables. ([NDMA—India Sendai Midterm Review (VNR) (PDF)](https://ndma.gov.in/sites/default/files/PDF/India-SFDRR-Midterm-Review-Report.pdf))
+- **CBDRR process/roles** — from CBDRR Guidelines PDF. ([NDMA—CBDRR Guidelines Oct 2024 (PDF)](https://ndma.gov.in/sites/default/files/PDF/Guidelines/CBDRR_Guidelines_Oct_2024.pdf))
+- **Phailin response assessment visuals/tables** — from UNDP’s assessment PDF. ([UNDP—Phailin assessment (PDF)](https://ndmindia.mha.gov.in/ndmi/images/pdf/PhailinReport-UNDP-Odisha.pdf))
+- **Odisha’s resilience narrative (institutional + infrastructure)** — World Bank page includes visual/illustrative content. ([World Bank—Odisha turnaround](https://www.worldbank.org/en/news/opinion/2023/11/03/odisha-s-turnaround-in-disaster-management-has-lessons-for-the-world))
 
 ---
 
-## 9) Example
+## 9) Synthesis Example
 
 NGOs are formally recognized in India’s disaster governance as agencies that supplement government capacity across preparedness, response, and recovery, and NDMA provides detailed guidance on operational roles and coordination expectations. ([NDMA Guideline—Role of NGOs (PDF)](https://www.ddmakangra.org/public/ngo_corner/showimg%20(1).pdf))
 In Odisha, institutional investments and structured coordination are widely cited as central to the state’s improved cyclone outcomes, with external assessments framing Odisha’s approach as globally instructive for disaster resilience-building. ([World Bank—Odisha turnaround](https://www.worldbank.org/en/news/opinion/2023/11/03/odisha-s-turnaround-in-disaster-management-has-lessons-for-the-world))
@@ -467,7 +467,7 @@ Community-centered DRR approaches further position NGOs/CSOs and CBOs as core ac
 
 ---
 
-## 10) Quick revision
+## 10) Summary of Key Concepts
 
 - **NGO (UN consultative framing):** Not established by a governmental entity or intergovernmental agreement (for consultative arrangements), with governance/accountability expectations. ([ECOSOC Resolution 1996/31 (PDF)](https://social.desa.un.org/sites/default/files/inline-files/resolution-1996-31.pdf))
 - **Disaster (India):** A grave occurrence causing substantial losses and beyond community coping capacity. ([Disaster Management Act, 2005 (PDF)](https://ndmindia.mha.gov.in/ndmi/images/The%20Disaster%20Management%20Act,%202005.pdf))
