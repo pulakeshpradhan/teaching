@@ -1,10 +1,16 @@
 site_name: Teaching
 theme:
-  name: readthedocs
+  name: material
+  features:
+    - navigation.expand
+    - content.action.print
 markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+plugins:
+  - search
+  - print-site
 nav:
   - Home: index.md
   - NGO Official: "NGO official.pdf"
