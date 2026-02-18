@@ -1,0 +1,6 @@
+site_name: Teaching
+theme:
+  name: readthedocs
+nav:
+  - Home: index.md
+  - NGO Official: "NGO official.pdf"
